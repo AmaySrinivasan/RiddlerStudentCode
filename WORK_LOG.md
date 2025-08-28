@@ -1,9 +1,11 @@
 Name: YOUR NAME HERE
 
-| Date   |    Time    |                                                                    Update |
-|:-------|:----------:|--------------------------------------------------------------------------:|
-| Aug 22 |  8-8:30pm  | I started by thinking about my place in the universe.<br/>It was scary... |
-|        |            |                                                             And then I... |
+| Date   |   Time   |                                                                                                                                                                                                                                                                                                                                                                                                    Update |
+|:-------|:--------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Aug 22 | 8-8:30pm |                                                                                                                                                                                                                                                                                                                                 I started by thinking about my place in the universe.<br/>It was scary... |
+|        |          |                                                                                                                                                                                                                                                                                                                                                                                             And then I... |
+| Aug 23 |  4-5pm   |  I checked over my work from class and realized my ceaser cypher shift was wrong, so I went back and fixed that. Then I spent a while thinking about the next one till I realized the range of the numbers was similar to the ASCII setup. It took me a while to work through that and actually get a translation that made sense.                                                                      I |
+| Aug 27 | 8-8:30pm |                                                                                                                                                    I worked through the binary problem. It was pretty obvious it was binary, but breaking it up into sectios of 8 took a decent bit of time till I had something that made sense. I also thought about the next part and started brainstorming coding it. |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
